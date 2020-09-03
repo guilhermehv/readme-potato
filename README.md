@@ -22,7 +22,7 @@
 
 
 
-  <img align="right" alt="GIF" width= "450px" src="https://giphy.com/gifs/hoppip-hoppip-dancing-potato-U1rlk8zdcAwbm" />
+  <img align="right" alt="GIF" width= "450px" src="https://media.giphy.com/media/U1rlk8zdcAwbm/giphy.gif" />
  
 
 **Some personal informations:**
