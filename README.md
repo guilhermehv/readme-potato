@@ -22,7 +22,7 @@
 
 
 
-  <img align="right" alt="GIF" width= "450px" src="https://media.giphy.com/media/U1rlk8zdcAwbm/giphy.gif" />
+  <img align="right" alt="GIF" width= "430px" src="https://media.giphy.com/media/U1rlk8zdcAwbm/giphy.gif" />
  
 
 **Some personal informations:**
